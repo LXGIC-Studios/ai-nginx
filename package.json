@@ -1,7 +1,7 @@
 {
   "name": "ai-nginx",
   "version": "1.0.0",
-  "description": "Generate nginx configs from plain English descriptions",
+  "description": "AI-powered Nginx config generator - reverse proxy and SSL setup with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-nginx": "dist/cli.js"
@@ -10,10 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
-    "nginx",
-    "config",
     "ai",
-    "devops"
+    "openai",
+    "gpt",
+    "nginx",
+    "reverse-proxy",
+    "ssl",
+    "devops",
+    "server",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "web-server",
+    "configuration"
   ],
   "license": "MIT",
   "dependencies": {
