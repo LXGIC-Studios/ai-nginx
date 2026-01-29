@@ -1,5 +1,10 @@
 # ai-nginx
 
+[![npm version](https://img.shields.io/npm/v/ai-nginx.svg)](https://www.npmjs.com/package/ai-nginx)
+[![npm downloads](https://img.shields.io/npm/dm/ai-nginx.svg)](https://www.npmjs.com/package/ai-nginx)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Stop googling nginx config snippets and copy-pasting from StackOverflow. Just describe what you want in plain English.
 
 ## Install
