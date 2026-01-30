@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-nginx.svg)](https://www.npmjs.com/package/ai-nginx)
 [![npm downloads](https://img.shields.io/npm/dm/ai-nginx.svg)](https://www.npmjs.com/package/ai-nginx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-nginx)](https://github.com/lxgic-studios/ai-nginx/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Stop googling nginx config snippets and copy-pasting from StackOverflow. Just describe what you want in plain English.
