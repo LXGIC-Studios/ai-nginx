@@ -47,7 +47,11 @@
     "cli",
     "devtools",
     "nginx",
-    "reverse-proxy"
+    "reverse-proxy",
+    "core-update-ready",
+    "google-ai-overviews",
+    "eeat-seo",
+    "may-2026-update"
   ],
   "license": "MIT",
   "main": "dist/index.js",
