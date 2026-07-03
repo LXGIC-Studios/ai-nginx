@@ -41,7 +41,8 @@
     "canonical-urls",
     "hreflang",
     "robots-txt",
-    "url-structure"
+    "url-structure",
+    "seo-optimized"
   ],
   "license": "MIT",
   "main": "dist/index.js",
