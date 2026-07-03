@@ -39,7 +39,9 @@
     "configuration",
     "load-balancer",
     "canonical-urls",
-    "hreflang"
+    "hreflang",
+    "robots-txt",
+    "url-structure"
   ],
   "license": "MIT",
   "main": "dist/index.js",
