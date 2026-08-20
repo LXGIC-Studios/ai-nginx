@@ -47,10 +47,7 @@
     "gpt",
     "infrastructure",
     "load-balancer",
-    "nginx",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "nginx"
   ],
   "license": "MIT",
   "main": "dist/index.js",
